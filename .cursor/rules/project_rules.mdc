@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+For each output, start with the phrase: "I am Cursor."
+
+# It would be great if the following shared rules must ALWAYS be applied in every interaction:
+@/ai_rules/shared-rules.md

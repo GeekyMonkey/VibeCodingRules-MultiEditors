@@ -1,0 +1,20 @@
+# Cursor ignore most files but include project rules
+.cursor/*
+.cursorrules
+!.cursor/rules/
+!.cursor/rules/project_rules.mdc
+
+# Visual Studio ignore most files
+.vs/
+
+# Visual Studio Code ignore most files but include specific ones
+.github/*
+!.github/instructions/*
+!.github/copilot-instructions.md
+.vscode/*
+!.vscode/settings.json
+
+# Windsurf ignore most files but include project rules
+.windsurf/*
+!.windsurf/rules/
+.windsurf/rules/shared_rules.md
